@@ -1,2 +1,2 @@
-# detyra
+# Internship Project
 login page to manage employees
